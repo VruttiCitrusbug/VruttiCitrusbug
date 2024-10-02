@@ -6,7 +6,7 @@
 
 🚀 AI/ML Engineer | 💻 Python Developer | 🌐 Tech Enthusiast
 
-Welcome to my GitHub profile! I'm Harsh Shah, a dedicated AI/ML engineer and Python developer with a passion for creating intelligent software solutions. With over 5 years of experience, I've been at the forefront of cutting-edge technology, bringing data to life with machine learning and AI. Let's dive into the world of data, code, and innovation!
+Welcome to my GitHub profile! I'm Vrutti Patel, a dedicated AI/ML engineer and Python developer with a passion for creating intelligent software solutions. With over 5 years of experience, I've been at the forefront of cutting-edge technology, bringing data to life with machine learning and AI. Let's dive into the world of data, code, and innovation!
 
 ## 💻 My Tech Stack
 
