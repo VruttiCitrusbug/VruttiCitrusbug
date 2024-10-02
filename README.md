@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Harsh Shah"/>
 </p>
 
-# Hi there, I'm Harsh Shah 👋
+# Hi there, I'm Vrutti Patel 👋
 
 🚀 AI/ML Engineer | 💻 Python Developer | 🌐 Tech Enthusiast
 
@@ -18,6 +18,9 @@ Welcome to my GitHub profile! I'm Harsh Shah, a dedicated AI/ML engineer and Pyt
 - Deployment: **AWS**, **Google Cloud**
 - DevOps: **Docker**, **Kubernetes**
 - Data Processing: **SQL**, **NoSQL**
+- Frontend: **Angular**, **React**
+- Backend: **Python (Django & Flask)**
+- Deep Learning: **MySQL**, **PostgreSQL**, **MongoDB**
 
 ## 🌱 Learning & Exploring
 
@@ -37,15 +40,23 @@ I've had the privilege to work on exciting projects in the world of AI and ML. H
 - **Automation:** Designed dynamic forms based on the extracted information and automated the process of filling out these forms.
 - **Impact:** Our system played a vital role in assisting with medical coding and streamlining the healthcare documentation process.
 
+### Voyage Control
+   - Upgraded from Angular JS to Angular 10 for improved performance and maintainability.
+   - Implemented pixel-perfect responsive UI based on Figma designs.
+   - Developed user, customer, and role/access management functionalities.
+
+### M-Trade
+   - MTrade is a comprehensive stocks management and bonds trading platform.
+
 ## 📫 Let's Connect
 
 I'm always open to connect with fellow AI/ML enthusiasts, developers, and data scientists. Feel free to reach out through the following channels:
 
-- [LinkedIn](https://www.linkedin.com/in/harshshah/)
-- Email: shah.harsh0103@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/vrutti-patel/)
+- Email: vrutti.citrusbug@gmail.com
 
 ## ⚡ Fun Fact
 
-When I'm not delving into the world of AI and coding, I enjoy outdoor photography and hiking. Exploring nature and capturing its beauty is my way of finding inspiration and balance in life. 📸🏞️
+Beyond the realm of coding, I enjoy exploring new cuisines and experimenting with cooking recipes. I believe in the fusion of technology and creativity!
 
 Thanks for visiting my profile, and let's continue to shape the future with AI and data, one algorithm at a time!
